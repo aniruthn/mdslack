@@ -1,0 +1,37 @@
+{
+  "channels": [
+    {
+      "people": [],
+      "name": "amol",
+      "messages": [
+        {
+          "date": "9/10",
+          "name": "amol",
+          "message": "wyd u up"
+        }
+      ]
+    },
+    {
+      "people": [],
+      "name": "mustafa",
+      "messages": [
+        {
+          "date": "9/4",
+          "name": "mustafa",
+          "message": "nah"
+        }
+      ]
+    },
+    {
+      "people": [],
+      "name": "noah",
+      "messages": [
+        {
+          "date": "9/12",
+          "name": "noah",
+          "message": "why you not here bro"
+        }
+      ]
+    }
+  ]
+}

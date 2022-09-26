@@ -1,0 +1,9 @@
+# web
+web/node_modules/
+
+# mobile
+mobile/.expo
+mobile/node_modules/
+
+# macOS
+.DS_Store

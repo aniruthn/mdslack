@@ -1,0 +1,52 @@
+{
+  "channels": [
+    {
+      "people": ["sameer", "aniruth", "joseph", "jeffrey", "amol"],
+      "name": "general",
+      "messages": [
+        {
+          "date": "9/10",
+          "name": "Amol",
+          "message": "social tonight! cheese and wine it seems apparently. also i no longer have hair."
+        },
+        {
+          "date": "9/08",
+          "name": "Amy",
+          "message": "location at 24 something blake"
+        },
+        {
+          "date": "9/05",
+          "name": "Aryan",
+          "message": "we will eventually have a cheese and wine social"
+        }
+      ]
+    },
+    {
+      "people": ["sriya", "eric", "francis"],
+      "name": "announcements",
+      "messages": [
+        {
+          "date": "9/10",
+          "name": "Elisa",
+          "message": "just coded slack. wyd"
+        },
+        {
+          "date": "9/07",
+          "name": "Emily",
+          "message": "this should not be in announcements."
+        }
+      ]
+    },
+    {
+      "people": ["amy", "maxine"],
+      "name": "lounge",
+      "messages": [
+        {
+          "date": "9/10",
+          "name": "Eric",
+          "message": "wyd u up"
+        }
+      ]
+    }
+  ]
+}
